@@ -2,8 +2,6 @@
 
 I'm a 16-year-old French developer and the Co-Founder of **Source Macchiato**, a game development group focused on creating remakes and original titles for various platforms, including the **Wii U**. I’m also a passionate student in **Cybersecurity** with a background as a former black hat hacker, now using my skills for good.
 
-![shiro-sata's Stats](https://github-readme-stats.vercel.app/api?username=Source-Macchiato&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🔭 I'm currently developing new projects with **Source Macchiato**, such as **Portal: Wii U Edition** and **FNaF: Wii U Edition**, remakes that bring popular games to the Wii U{index=1}.
@@ -12,7 +10,7 @@ I'm a 16-year-old French developer and the Co-Founder of **Source Macchiato**, a
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,csharp,unity)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
