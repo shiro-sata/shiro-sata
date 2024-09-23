@@ -6,7 +6,7 @@ I'm a 16-year-old French developer and the Co-Founder of **Source Macchiato**, a
 
 - 🔭 I'm currently developing new projects with **Source Macchiato**, such as **Portal: Wii U Edition** and **FNaF: Wii U Edition**, remakes that bring popular games to the Wii U{index=1}.
 - 🛡️ As a cybersecurity student, I'm always learning and staying ahead of emerging trends in digital security.
-- 🖥️ In my free time, I contribute to open-source projects and work on web and game development.
+- 🖥️ In my free time, I contribute to open-source projects and work on game development.
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +25,7 @@ I'm a 16-year-old French developer and the Co-Founder of **Source Macchiato**, a
   
 ## 📬 Get in Touch
 
-- Connect with me on [GitHub](https://github.com/shiro-sata)
+- Connect with me on [GitHub](https://github.com/shiro-sata), [Discord]()
 - Check out our projects on [Source Macchiato's itch.io](https://source-macchiato.itch.io/)
 
 Thanks for stopping by! Let's connect and collaborate on exciting tech and game projects. 🚀
