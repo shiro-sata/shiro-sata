@@ -6,7 +6,7 @@ I'm a 16-year-old French developer and the Co-Founder of **Source Macchiato**, a
 
 ## 🚀 About Me
 
-- 🔭 I'm currently developing new projects with **Source Macchiato**, such as **Portal: Wii U Edition** and **FNaF: Wii U Edition**, remakes that bring popular games to the Wii U&#8203;:contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}.
+- 🔭 I'm currently developing new projects with **Source Macchiato**, such as **Portal: Wii U Edition** and **FNaF: Wii U Edition**, remakes that bring popular games to the Wii U{index=1}.
 - 🛡️ As a cybersecurity student, I'm always learning and staying ahead of emerging trends in digital security.
 - 🖥️ In my free time, I contribute to open-source projects and work on web and game development.
 
@@ -22,7 +22,7 @@ I'm a 16-year-old French developer and the Co-Founder of **Source Macchiato**, a
 
 ## 🏆 Achievements
 
-- 🌟 Co-Founder of **Source Macchiato**, where we've developed and released **FNaF: Wii U Edition** and are actively working on **Portal: Wii U Edition**&#8203;:contentReference[oaicite:2]{index=2}&#8203;:contentReference[oaicite:3]{index=3}.
+- 🌟 Co-Founder of **Source Macchiato**, where we've developed and released **FNaF: Wii U Edition** and are actively working on **Portal: Wii U Edition**.
 - 🚀 Actively transitioning from black hat hacking to ethical security practices.
   
 ## 📬 Get in Touch
