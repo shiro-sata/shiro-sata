@@ -10,7 +10,7 @@ I'm a 16-year-old French developer and the Co-Founder of **Source Macchiato**, a
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,csharp,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,unity)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
