@@ -25,7 +25,7 @@ I'm a 16-year-old French developer and the Co-Founder of **Source Macchiato**, a
   
 ## 📬 Get in Touch
 
-- Connect with me on [GitHub](https://github.com/shiro-sata), [Discord](discordapp.com/users/1010367819277422592)
+- Connect with me on [GitHub](https://github.com/shiro-sata), [Discord](https://discordapp.com/users/1010367819277422592)
 - Check out our projects on [Source Macchiato's itch.io](https://source-macchiato.itch.io/)
 
 Thanks for stopping by! Let's connect and collaborate on exciting tech and game projects. 🚀
