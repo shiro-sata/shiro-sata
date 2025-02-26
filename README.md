@@ -1,6 +1,6 @@
 # Hi, I'm Shiro-Sata! 👋
 
-I'm a 16-year-old French developer and the Co-Founder of **Source Macchiato**, a game development group focused on creating remakes and original titles for various platforms, including the **Wii U**. I’m also a passionate student in **Cybersecurity** with a background as a former black hat hacker, now using my skills for good.
+I'm a French developer and the Co-Founder of **Source Macchiato**, a game development group focused on creating remakes and original titles for various platforms, including the **Wii U**. I’m also a passionate student in **Cybersecurity** with a background as a former black hat hacker, now using my skills for good.
 
 ## 🚀 About Me
 
