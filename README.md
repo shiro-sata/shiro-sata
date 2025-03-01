@@ -7,12 +7,6 @@
   </h4>
 </div>
 
-<div align="center">
-  <a href="https://github.com/shiro-sata">
-    <img src="https://github.com/shiro-sata/shiro-sata/blob/main/resources/img/grid-snake.svg" alt="snake" />
-  </a>
-</div>
-
 -----
 
 <details>
