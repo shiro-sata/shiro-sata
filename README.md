@@ -46,7 +46,7 @@
         I'm a French developer and the Co-Founder of <strong>Source Macchiato</strong>, a game development group focused on remakes and original titles for the <strong>Wii U</strong>. I’m also a cybersecurity student with a passion for ethical hacking and penetration testing.
       </p>
       <p align="center">
-        <strong>Current Projects:</strong> Developing <em>Portal: Wii U Edition</em> &amp; <em>FNaF: Wii U Edition</em>
+        <strong>Current Projects: see them on [Source Macchiato website](https://sourcemacchiato.com) or on my GitHub repertories
       </p>
       <p align="center">
         <strong>Interests:</strong> Ethical hacking, penetration testing, advanced web security, and multi-platform game development with Unity.
