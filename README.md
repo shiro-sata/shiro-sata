@@ -125,9 +125,13 @@
   <summary>💻My dev team</summary>
   <div>
     <samp>
-      <h2 align="center">About Shiro-Sata</h2>
+      <h2 align="center">Our discord</h2>
       <p align="center">
         Join us on discord ! : https://discord.gg/Swybxyc3kU
+      </p>
+      <h2 align="center">Our website</h2>
+      <p align="center">
+        https://sourcemacchiato.com/
       </p>
     </samp>
   </div>
