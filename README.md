@@ -122,15 +122,15 @@
 </details>
 
 <details>
-  <summary>📈 Latest Activity Graph</summary>
-  <samp>
-    <br/>
-    <h2 align="center">Latest Contributions</h2>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img alt="shiro-sata's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=shiro-sata&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
-    </a>
-    <br/>
-  </samp>
+  <summary>💻My dev team</summary>
+  <div>
+    <samp>
+      <h2 align="center">About Shiro-Sata</h2>
+      <p align="center">
+        Join us on discord ! : https://discord.gg/Swybxyc3kU
+      </p>
+    </samp>
+  </div>
 </details>
 </details>
 
