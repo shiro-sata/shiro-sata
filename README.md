@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    Hi <img width="35" src="https://raw.githubusercontent.com/shiro-sata/shiro-sata/main/resources/img/waving.gif" alt="waving">, I'm Shiro-Sata
+    🤗Hi, I'm Shiro-Sata🤗
   </h1>
   <h4 align="center">
     I'm a French developer &amp; Co-Founder of <strong>Source Macchiato</strong>, a game development group, and a passionate Cybersecurity student.
