@@ -76,7 +76,7 @@
       <h2 align="center">Achievements &amp; Projects</h2>
       <p align="center">
         🌟 Co-Founder of <strong>Source Macchiato</strong> <br>
-        🚀 Released <strong>FNaF: Wii U Edition</strong> and currently working on <strong>Portal: Wii U Edition</strong>
+        🚀 Released <strong>FNaF: Wii U Edition</strong> and currently working on <strong>our own indie game</strong>
       </p>
     </samp>
   </div>
