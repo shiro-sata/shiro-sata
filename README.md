@@ -127,7 +127,7 @@
     <samp>
       <h2 align="center">Our discord</h2>
       <p align="center">
-        Join us on discord ! : https://discord.gg/Swybxyc3kU
+        Join us on discord ! : https://sourcemacchiato.com/discord
       </p>
       <h2 align="center">Our website</h2>
       <p align="center">
