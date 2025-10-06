@@ -17,15 +17,15 @@
 
 <div align="center">
   <a href="https://source-macchiato.itch.io/fnaf-wiiu-edition">
-    <img src="/Assets/FNaF-WiiU.png" />
+    <img src="/Assets/FNaF-WiiU.png" width="200" />
   </a>
 
   <a href="https://the-latte-macchiato.itch.io/fnaf2-wiiu-edition">
-    <img src="/Assets/FNaF2-WiiU.png" />
+    <img src="/Assets/FNaF2-WiiU.png" width="200" />
   </a>
 
   <a href="https://source-macchiato.itch.io/milk-collection-wiiu-edition">
-    <img src="/Assets/MOBM-WiiU.png" />
+    <img src="/Assets/MOBM-WiiU.png" width="200" />
   </a>
 </div>
 <details>
