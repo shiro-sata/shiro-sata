@@ -1,16 +1,36 @@
 <div align="center">
-  <h1 align="center">
-    🤗Hi, I'm Shiro-Sata🤗
-  </h1>
-  <h4 align="center">
-    I'm a French developer &amp; Co-Founder of <strong>Source Macchiato</strong>, a game development group, and a passionate Cybersecurity student.
-  </h4>
+  <h1>Hi, I'm Shiro;SATA</h1>
+  <img src="https://media1.tenor.com/m/1ICxI42nDMsAAAAC/anime-hug-kurisu.gif" width="300">
+  <p>I'm a French developer & co-founder of <a href="https://sourcemacchiato.com">Source Macchiato</a>, an indie game studio previously working on Wii U remakes and now working on an indie game named "A show she never watched.".</p>
+  <p>I'm also a student in Cyber-security!</p>
 </div>
 
------
+<div align="center">
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=cs,py,unity,vscode,git" alt="Skills" />
+  </a>
+</div>
 
+<div align="center">
+  <h3>My published projects</h3>
+</div>
+
+<div align="center">
+  <a href="https://source-macchiato.itch.io/fnaf-wiiu-edition">
+    <img src="/Assets/FNaF-WiiU.png" />
+  </a>
+
+  <a href="https://the-latte-macchiato.itch.io/fnaf2-wiiu-edition">
+    <img src="/Assets/FNaF2-WiiU.png" />
+  </a>
+
+  <a href="https://source-macchiato.itch.io/milk-collection-wiiu-edition">
+    <img src="/Assets/MOBM-WiiU.png" />
+  </a>
+</div>
 <details>
-  <summary>☎️ Contact Me</summary>
+
+  <summary>My Contacts</summary>
   <div>
     <samp>
       <h2 align="center">Reach Out</h2>
@@ -21,7 +41,7 @@
                src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
                alt="shiro-sata" height="30"/>
         </a>
-        <a href="https://discordapp.com/users/1010367819277422592" target="blank">
+        <a href="https://discordapp.com/users/1400598685418520728" target="blank">
           <img align="center"
                src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
                alt="shiro-sata" height="30"/>
@@ -38,105 +58,21 @@
 </details>
 
 <details>
-  <summary>📝 About Me</summary>
+  <summary>My Interests</summary>
   <div>
-    <samp>
-      <h2 align="center">About Shiro-Sata</h2>
-      <p align="center">
-        I'm a French developer and the Co-Founder of <strong>Source Macchiato</strong>, a game development group focused on remakes and original titles for the <strong>Wii U</strong>. I’m also a cybersecurity student with a passion for ethical hacking and penetration testing.
-      </p>
-      <p align="center">
-        <strong>Current Projects: see them on https://sourcemacchiato.com or on my GitHub repertories
-      </p>
-      <p align="center">
-        <strong>Interests:</strong> Ethical hacking, penetration testing, advanced web security, and multi-platform game development with Unity.
-      </p>
-    </samp>
+    <ul>
+      <li>
+        <p>Ethical hacking</p>
+      </li>
+      <li>
+        <p>penetration testing</p>
+      </li>
+      <li>
+        <p>advanced web security</p>
+      </li>
+      <li>
+        <p>multi-platform game development</p>
+      </li>
+    </ul>
   </div>
 </details>
-
-<details>
-  <summary>🛠️ Tech Stack & Skills</summary>
-  <div>
-    <samp>
-      <h2 align="center">Tech Stack</h2>
-      <p align="center">
-        <a href="https://skillicons.dev/">
-          <img src="https://skillicons.dev/icons?i=python,cpp,cs,unity,godot" alt="Tech Stack" />
-        </a>
-      </p>
-    </samp>
-  </div>
-</details>
-
-<details>
-  <summary>🏆 Achievements & Projects</summary>
-  <div>
-    <samp>
-      <h2 align="center">Achievements &amp; Projects</h2>
-      <p align="center">
-        🌟 Co-Founder of <strong>Source Macchiato</strong> <br>
-        🚀 Released <strong>FNaF: Wii U Edition</strong> and currently working on <strong>our own indie game</strong>
-      </p>
-    </samp>
-  </div>
-</details>
-
-<details>
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-    <samp>
-      <h2 align="center">GitHub Stats</h2>
-      <br/>
-      <details open>
-        <summary><h3>Languages</h3></summary>
-        <p align="center">
-          <a href="https://github.com/shiro-sata/">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiro-sata&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-                 alt="shiro-sata :: Top Langs" />
-          </a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/shiro-sata/">
-            <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiro-sata&theme=gruvbox&layout=compact&hide_border=true"
-                 alt="shiro-sata :: Top Langs by repo" />
-            <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shiro-sata&theme=gruvbox&layout=compact&hide_border=true"
-                 alt="shiro-sata :: Top Langs by commit" />
-          </a>
-        </p>
-      </details>
-      <details open>
-        <summary><h3>Statistics</h3></summary>
-        <p align="center">
-          <a href="https://github.com/shiro-sata/">
-            <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shiro-sata&show_icons=true&theme=gruvbox&hide_border=true"
-                 alt="shiro-sata Stats" />
-            <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shiro-sata&theme=gruvbox&hide_border=true"
-                 alt="shiro-sata Streak Stats" />
-          </a>
-        </p>
-        <br>
-      </details>
-    </samp>
-  </div>    
-</details>
-
-<details>
-  <summary>💻My dev team</summary>
-  <div>
-    <samp>
-      <h2 align="center">Our discord</h2>
-      <p align="center">
-        Join us on discord ! : https://sourcemacchiato.com/discord
-      </p>
-      <h2 align="center">Our website</h2>
-      <p align="center">
-        https://sourcemacchiato.com/
-      </p>
-    </samp>
-  </div>
-</details>
-</details>
-
------
-Credits to [1999AZZAR](https://github.com/1999AZZAR) for the inspiration and the base of this README.
