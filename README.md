@@ -16,15 +16,17 @@
 </div>
 
 <div align="center">
+<h4>FNaF: Wii U Edition</h4>
   <a href="https://source-macchiato.itch.io/fnaf-wiiu-edition">
     <img src="/Assets/FNaF-WiiU.png" width="200" />
   </a>
-<h4>FNaF: Wii U Edition</h4>
 
+<h4>FNaF2: Wii U Edition</h4>
   <a href="https://the-latte-macchiato.itch.io/fnaf2-wiiu-edition">
     <img src="/Assets/FNaF2-WiiU.png" width="200" />
   </a>
 
+<h4>Milk outside a bag of Milk: Wii U Edition</h4>
   <a href="https://source-macchiato.itch.io/milk-collection-wiiu-edition">
     <img src="/Assets/MOBM-WiiU.png" width="200" />
   </a>
