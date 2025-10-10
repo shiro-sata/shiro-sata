@@ -26,6 +26,19 @@
     <img src="/Assets/MOBM-WiiU.png" width="200" />
   </a>
 </div>
+
+<div align="center">
+  <h3>Upcoming projects</h3>
+</div>
+
+<div align="center">
+  <a href="https://source-macchiato.itch.io/step-wiiu-edition">
+    <img src="/Assets/step-wiiu.png" width="200" />
+  </a>
+  <a href="https://sourcemacchiato.com/games">
+    <img src="/Assets/Unwatched-show.png" width="200" />
+  </a>
+</div>
 <details>
 
   <summary>My Contacts</summary>
