@@ -36,7 +36,7 @@
     <img src="/Assets/step-wiiu.png" width="200" />
   </a>
   <a href="https://sourcemacchiato.com/games">
-    <img src="/Assets/Unwatched-show.webp" width="200" />
+    <img src="/Assets/Unwatched-show.png" width="200" />
   </a>
 </div>
 <details>
