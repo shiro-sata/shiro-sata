@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=cs,py,unity,vscode,git" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,py,unity,vscode,git" alt="Skills" />
   </a>
 </div>
 
