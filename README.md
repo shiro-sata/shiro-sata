@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <h3>My published projects</h3>
+  <h3>My community projects</h3>
 </div>
 
 <div align="center">
@@ -31,15 +31,22 @@
 </div>
 
 <div align="center">
-  <h3>Upcoming projects</h3>
+  <h3>Upcoming community projects</h3>
+</div>
+
+<div align="center">
+    <a href="https://github.com/shiro-sata/Realboot-WiiU-Project">
+    <img src="/Assets/rb.png" width="200" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>Upcoming professional projects</h3>
 </div>
 
 <div align="center">
   <a href="https://sourcemacchiato.com/games">
     <img src="/Assets/Unwatched-show.png" width="200" />
-  </a>
-    <a href="https://github.com/shiro-sata/Realboot-WiiU-Project">
-    <img src="/Assets/rb.png" width="200" />
   </a>
 </div>
 <details>
