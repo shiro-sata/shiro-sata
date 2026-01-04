@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hi, I'm Shiro;SATA</h1>
+  <h1>Bishiii!! I'm Shiro;SATA</h1>
   <img src="https://media1.tenor.com/m/QHu4SZCiTp8AAAAd/chaos-head-rimi.gif" width="300">
-  <p>I'm a French developer & co-founder of <a href="https://sourcemacchiato.com">Source Macchiato</a>, an indie game studio previously working on Wii U remakes and now working on an indie game named "A show she never watched.".</p>
+  <p>I'm a French developer & co-founder of <a href="https://sourcemacchiato.com">Source Macchiato</a>, an indie game creation and porting studio.</p>
   <p>I'm also a student in Cyber-security, and a huge fan of the <a href="https://en.wikipedia.org/wiki/Science_Adventure">Science Adventure Series</a>!</p>
 </div>
 
