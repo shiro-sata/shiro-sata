@@ -12,41 +12,18 @@
 </div>
 
 <div align="center">
-  <h3>My community projects</h3>
-</div>
-
-<div align="center">
-  <a href="https://source-macchiato.itch.io/fnaf-wiiu-edition">
-    <img src="/Assets/FNaF-WiiU.png" width="200" />
-  </a>
-  <a href="https://the-latte-macchiato.itch.io/fnaf2-wiiu-edition">
-    <img src="/Assets/FNaF2-WiiU.png" width="200" />
-  </a>
-  <a href="https://source-macchiato.itch.io/milk-collection-wiiu-edition">
-    <img src="/Assets/MOBM-WiiU.png" width="200" />
-  </a>
-    <a href="https://source-macchiato.itch.io/step-wiiu-edition">
-    <img src="/Assets/step-wiiu.png" width="200" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>Upcoming community projects</h3>
-</div>
-
-<div align="center">
-    <a href="https://github.com/shiro-sata/Realboot-WiiU-Project">
-    <img src="/Assets/rb.png" width="200" />
-  </a>
-</div>
-
-<div align="center">
   <h3>Upcoming professional projects</h3>
 </div>
 
 <div align="center">
   <a href="https://sourcemacchiato.com/games">
     <img src="/Assets/Unwatched-show.png" width="200" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://sourcemacchiato.com/ports">
+    <img src="/Assets/metal-garden.png" width="200" />
   </a>
 </div>
 <details>
