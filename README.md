@@ -94,7 +94,7 @@ A short, atmospheric single-player FPS you can finish in one sitting. Travel thr
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="shiro-sata" height="30"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://source-macchiato.itch.io/" target="blank">
+    <a href="https://sourcemacchiato.itch.io/" target="blank">
       <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch-io&logoColor=white" alt="Source Macchiato" height="30"/>
     </a>
   </div>
