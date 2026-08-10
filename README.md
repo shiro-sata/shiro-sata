@@ -11,73 +11,107 @@
   </a>
 </div>
 
-<div align="center">
-  <h3>Upcoming professional projects</h3>
-</div>
+<br>
 
 <div align="center">
-  <a href="https://sourcemacchiato.com/games">
+  <h2>What I'm Building</h2>
+</div>
+
+### Upcoming Professional Project
+
+<table>
+<tr>
+<td width="220" align="center">
+  <a href="https://sourcemacchiato.com/games/a-show-she-never-watched/">
     <img src="/Assets/unwatched-show.png" width="200" />
   </a>
-</div>
+</td>
+<td>
 
-<div align="center">
-  <h3>Upcoming porting project</h3>
-</div>
+#### A show she never watched.
 
-<div align="center">
-  <a href="https://sourcemacchiato.com/ports">
+<img src="https://img.shields.io/badge/Steam-101021?style=flat-square&logo=steam&logoColor=white" height="22"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Release-TBA-374151?style=flat-square" height="22"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Price-TBA-374151?style=flat-square" height="22"/>
+
+<blockquote>
+Clara, a teenager struggling with psychological issues, is visited one night by a mysterious entity through her TV. As she falls asleep, she begins a perilous journey through her dreams. will she uncover the truth, or dream on forever?
+</blockquote>
+
+<a href="https://store.steampowered.com/app/3837360/A_show_she_never_watched/">
+  <img src="https://img.shields.io/badge/Wishlist-Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://sourcemacchiato.com/games/a-show-she-never-watched/">
+  <img src="https://img.shields.io/badge/More_Info-4B5563?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+### Upcoming Porting Project
+
+<table>
+<tr>
+<td width="220" align="center">
+  <a href="https://sourcemacchiato.com/ports/">
     <img src="/Assets/metal-garden.png" width="200" />
   </a>
-</div>
-<details>
+</td>
+<td>
 
-  <summary>My Contacts</summary>
-  <div>
-    <samp>
-      <h2 align="center">Reach Out</h2>
-      <p align="center">
-        <br/>
-        <a href="https://github.com/shiro-sata" target="blank">
-          <img align="center"
-               src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
-               alt="shiro-sata" height="30"/>
-        </a>
-        <a href="https://discordapp.com/users/1400598685418520728" target="blank">
-          <img align="center"
-               src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
-               alt="shiro-sata" height="30"/>
-        </a>
-        <a href="https://source-macchiato.itch.io/" target="blank">
-          <img align="center"
-               src="https://img.shields.io/badge/itch.io-000000?style=for-the-badge&logo=itch-io&logoColor=white"
-               alt="Source Macchiato" height="30"/>
-        </a>
-        <br>
-      </p>
-    </samp>
+#### Metal Garden
+<sub>Ported by Source Macchiato | developed by Tinerasoft</sub>
+
+<img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=flat-square&logo=nintendoswitch&logoColor=white" height="22"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Release-Sept_1%2C_2026-374151?style=flat-square" height="22"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Price-%245.99-374151?style=flat-square" height="22"/>
+
+<blockquote>
+A short, atmospheric single-player FPS you can finish in one sitting. Travel through an overgrown megastructure, explore architectural relics of eras near and long gone, and fight your way through varied encounters against the mysterious factions that call it home.
+</blockquote>
+
+<a href="https://youtu.be/Zqw6odXj4hQ">
+  <img src="https://img.shields.io/badge/Watch-Trailer-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://tinerasoft.net/projects/metal-garden/">
+  <img src="https://img.shields.io/badge/More_Info-4B5563?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<details>
+  <summary><b>Contact</b></summary>
+  <br>
+  <div align="center">
+    <a href="https://github.com/shiro-sata" target="blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="shiro-sata" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://discordapp.com/users/1400598685418520728" target="blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="shiro-sata" height="30"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://source-macchiato.itch.io/" target="blank">
+      <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch-io&logoColor=white" alt="Source Macchiato" height="30"/>
+    </a>
   </div>
 </details>
 
 <details>
-  <summary>My Interests</summary>
-  <div>
-    <ul>
-      <li>
-        <p>Ethical hacking</p>
-      </li>
-      <li>
-        <p>penetration testing</p>
-      </li>
-      <li>
-        <p>advanced web security</p>
-      </li>
-      <li>
-        <p>multi-platform game development</p>
-      </li>
-      <li>
-        <p>3D Animation and modelisation</p>
-      </li>
-    </ul>
+  <summary><b>Interests</b></summary>
+  <br>
+  <div align="center">
+    <img src="https://img.shields.io/badge/-Ethical_Hacking-1f2937?style=flat-square"/>
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Penetration_Testing-1f2937?style=flat-square"/>
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Web_Security-1f2937?style=flat-square"/>
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Multi--platform_Game_Dev-1f2937?style=flat-square"/>
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-3D_Animation_%26_Modelling-1f2937?style=flat-square"/>
   </div>
 </details>
