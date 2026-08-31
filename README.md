@@ -65,7 +65,7 @@ Clara, a teenager struggling with psychological issues, is visited one night by 
 <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=flat-square&logo=nintendoswitch&logoColor=white" height="22"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Release-Sept_1%2C_2026-374151?style=flat-square" height="22"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Price-%245.99-374151?style=flat-square" height="22"/>
 
 <blockquote>
-A short, atmospheric single-player FPS you can finish in one sitting. Travel through an overgrown megastructure, explore architectural relics of eras near and long gone, and fight your way through varied encounters against the mysterious factions that call it home.
+Travel through an overgrown megastructure, and discover what lies beyond it. Metal Garden is a short, atmospheric singleplayer FPS game.
 </blockquote>
 
 <a href="https://youtu.be/Zqw6odXj4hQ">
